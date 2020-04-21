@@ -24,9 +24,11 @@
       "express-async-errors": "^3.1.1",
       "helmet": "^3.22.0",
       "http-status-codes": "^1.4.0",
+      "intuit-oauth": "^2.1.0",
       "module-alias": "^2.2.2",
       "morgan": "^1.10.0",
       "mysql": "^2.14.1",
+      "node-quickbooks": "^2.0.33",
       "reflect-metadata": "^0.1.10",
       "typeorm": "0.2.24",
       "winston": "^3.2.1"
